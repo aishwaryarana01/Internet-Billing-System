@@ -1,0 +1,718 @@
+[Mon Aug 31 15:17:01 2015] [warn] pid file C:/wamp/bin/apache/Apache2.2.17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 31 15:17:01 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Mon Aug 31 15:17:01 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Aug 31 15:17:01 2015] [notice] Parent: Created child process 7264
+[Mon Aug 31 15:17:01 2015] [notice] Child 7264: Child process is running
+[Mon Aug 31 15:17:01 2015] [notice] Child 7264: Acquired the start mutex.
+[Mon Aug 31 15:17:01 2015] [notice] Child 7264: Starting 64 worker threads.
+[Mon Aug 31 15:17:01 2015] [notice] Child 7264: Starting thread to listen on port 80.
+[Mon Aug 31 15:17:07 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 31 15:17:07 2015] [notice] Child 7264: Exit event signaled. Child process is ending.
+[Mon Aug 31 15:17:08 2015] [notice] Child 7264: Released the start mutex
+[Mon Aug 31 15:17:09 2015] [notice] Child 7264: All worker threads have exited.
+[Mon Aug 31 15:17:09 2015] [notice] Child 7264: Child process is exiting
+[Mon Aug 31 15:17:09 2015] [notice] Parent: Child process exited successfully.
+[Mon Aug 31 15:17:09 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Mon Aug 31 15:17:09 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Aug 31 15:17:09 2015] [notice] Parent: Created child process 1128
+[Mon Aug 31 15:17:09 2015] [notice] Child 1128: Child process is running
+[Mon Aug 31 15:17:09 2015] [notice] Child 1128: Acquired the start mutex.
+[Mon Aug 31 15:17:09 2015] [notice] Child 1128: Starting 64 worker threads.
+[Mon Aug 31 15:17:09 2015] [notice] Child 1128: Starting thread to listen on port 80.
+[Mon Aug 31 15:19:32 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'class_mysql' not found in C:\\wamp\\www\\PRIME\\authenticate.php on line 9, referer: http://localhost/PRIME/
+[Mon Aug 31 15:19:32 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 15:32:00 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'class_mysql' not found in C:\\wamp\\www\\PRIME\\authenticate.php on line 9
+[Mon Aug 31 15:44:46 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'class_mysql' not found in C:\\wamp\\www\\PRIME\\authenticate.php on line 9, referer: http://localhost/PRIME/
+[Mon Aug 31 15:45:40 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'class_mysql' not found in C:\\wamp\\www\\PRIME\\authenticate.php on line 9, referer: http://localhost/PRIME/
+[Mon Aug 31 15:45:44 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'class_mysql' not found in C:\\wamp\\www\\PRIME\\authenticate.php on line 9, referer: http://localhost/PRIME/
+[Mon Aug 31 15:46:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_wimax in C:\\wamp\\www\\PRIME\\authenticate.php on line 47, referer: http://localhost/PRIME/
+[Mon Aug 31 15:46:43 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end in C:\\wamp\\www\\PRIME\\includes\\header.php on line 94, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 15:47:56 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 31 15:47:56 2015] [notice] Child 1128: Exit event signaled. Child process is ending.
+[Mon Aug 31 15:47:57 2015] [notice] Child 1128: Released the start mutex
+[Mon Aug 31 15:47:58 2015] [notice] Child 1128: All worker threads have exited.
+[Mon Aug 31 15:47:58 2015] [notice] Child 1128: Child process is exiting
+[Mon Aug 31 15:47:58 2015] [notice] Parent: Child process exited successfully.
+[Mon Aug 31 15:47:58 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Mon Aug 31 15:47:58 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Aug 31 15:47:58 2015] [notice] Parent: Created child process 284
+[Mon Aug 31 15:47:59 2015] [notice] Child 284: Child process is running
+[Mon Aug 31 15:47:59 2015] [notice] Child 284: Acquired the start mutex.
+[Mon Aug 31 15:47:59 2015] [notice] Child 284: Starting 64 worker threads.
+[Mon Aug 31 15:47:59 2015] [notice] Child 284: Starting thread to listen on port 80.
+[Mon Aug 31 15:48:02 2015] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\\wamp\\www\\PRIME\\includes\\IncNotices.php on line 14, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 15:48:02 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Mon Aug 31 15:48:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 15:48:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: telno in C:\\wamp\\www\\PRIME\\viewstatus.php on line 69, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 15:50:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: telno in C:\\wamp\\www\\PRIME\\viewstatus.php on line 69, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 15:55:20 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_wimax in C:\\wamp\\www\\PRIME\\authenticate.php on line 47, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 15:55:20 2015] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\\wamp\\www\\PRIME\\includes\\IncNotices.php on line 14, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 15:55:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 15:58:38 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '{' in C:\\wamp\\www\\PRIME\\viewstatus.php on line 73, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 15:59:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:00:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:02:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 16:03:08 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: searchby in C:\\wamp\\www\\PRIME\\viewsession.php on line 50, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 16:03:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 16:03:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 20, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 16:07:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\portbind.php on line 10, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 16:07:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\portbind.php on line 22, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 16:07:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 8, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 16:07:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 20, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 16:15:40 2015] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function oci_new_connect() in C:\\wamp\\www\\PRIME\\resetadslpwdAct.php on line 21, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 16:16:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_update in C:\\wamp\\www\\PRIME\\resetadslpwdAct.php on line 21, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 16:17:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_update in C:\\wamp\\www\\PRIME\\resetadslpwdAct.php on line 21, referer: http://localhost/PRIME/resetadslpwd.php?err=0&act=pwd
+[Mon Aug 31 16:19:31 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\portbind.php on line 10, referer: http://localhost/PRIME/resetadslpwd.php?err=0&act=pwd
+[Mon Aug 31 16:19:31 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\portbind.php on line 22, referer: http://localhost/PRIME/resetadslpwd.php?err=0&act=pwd
+[Mon Aug 31 16:23:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 8, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 16:23:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 20, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 16:25:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\portbind.php on line 10, referer: http://localhost/PRIME/resetadslpwd.php?err=0&act=pwd
+[Mon Aug 31 16:25:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\portbind.php on line 22, referer: http://localhost/PRIME/resetadslpwd.php?err=0&act=pwd
+[Mon Aug 31 16:26:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: pwd in C:\\wamp\\www\\PRIME\\portbindAct.php on line 14, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 16:26:20 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/portbind.php?err=0&act=bind
+[Mon Aug 31 16:26:20 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/portbind.php?err=0&act=bind
+[Mon Aug 31 16:26:20 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/portbind.php?err=0&act=bind
+[Mon Aug 31 16:30:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:30:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 28, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 28, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:31:56 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 28, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:32:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:32:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:32:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:32:44 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 28, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:33:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 30, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:34:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:34:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:34:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:34:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 32, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:35:21 2015] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\\wamp\\www\\PRIME\\includes\\IncNotices.php on line 14, referer: http://localhost/PRIME/timeextensionAct.php
+[Mon Aug 31 16:35:23 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:35:23 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:35:23 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:35:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: res_ext in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 38, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:37:11 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:37:11 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:37:11 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 16:37:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11
+[Mon Aug 31 16:37:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12
+[Mon Aug 31 16:37:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24
+[Mon Aug 31 16:38:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: telno in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 31, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:38:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: telno in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 34, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:38:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: rem in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 34, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:38:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ip in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 34, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:38:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: newdate in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 37, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 16:39:10 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: telno in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 34, referer: http://localhost/PRIME/timeextension.php?err=0&dat=
+[Mon Aug 31 16:39:10 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: rem in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 34, referer: http://localhost/PRIME/timeextension.php?err=0&dat=
+[Mon Aug 31 16:39:10 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ip in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 34, referer: http://localhost/PRIME/timeextension.php?err=0&dat=
+[Mon Aug 31 16:39:10 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: newdate in C:\\wamp\\www\\PRIME\\timeextensionAct.php on line 37, referer: http://localhost/PRIME/timeextension.php?err=0&dat=
+[Mon Aug 31 16:53:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: regLoca in C:\\wamp\\www\\PRIME\\users\\userAddAction.php on line 56, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 16:55:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: adm_user in C:\\wamp\\www\\PRIME\\users\\userEditAction.php on line 26, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 16:59:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submitted in C:\\wamp\\www\\PRIME\\changepass.php on line 11, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 16:59:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: done in C:\\wamp\\www\\PRIME\\changepass.php on line 113, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 16:59:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: err in C:\\wamp\\www\\PRIME\\changepass.php on line 130, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:00:01 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 31 17:00:01 2015] [notice] Child 284: Exit event signaled. Child process is ending.
+[Mon Aug 31 17:00:02 2015] [notice] Child 284: Released the start mutex
+[Mon Aug 31 17:00:03 2015] [notice] Child 284: All worker threads have exited.
+[Mon Aug 31 17:00:03 2015] [notice] Child 284: Child process is exiting
+[Mon Aug 31 17:00:03 2015] [notice] Parent: Child process exited successfully.
+[Mon Aug 31 17:00:03 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Mon Aug 31 17:00:03 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Aug 31 17:00:03 2015] [notice] Parent: Created child process 1504
+[Mon Aug 31 17:00:03 2015] [notice] Child 1504: Child process is running
+[Mon Aug 31 17:00:03 2015] [notice] Child 1504: Acquired the start mutex.
+[Mon Aug 31 17:00:03 2015] [notice] Child 1504: Starting 64 worker threads.
+[Mon Aug 31 17:00:03 2015] [notice] Child 1504: Starting thread to listen on port 80.
+[Mon Aug 31 17:00:06 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submitted in C:\\wamp\\www\\PRIME\\changepass.php on line 11, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:00:06 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: done in C:\\wamp\\www\\PRIME\\changepass.php on line 113, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:00:06 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: err in C:\\wamp\\www\\PRIME\\changepass.php on line 130, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:00:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_report in C:\\wamp\\www\\PRIME\\authenticate.php on line 40, referer: http://localhost/PRIME/index.php?act=mismatch&err=3
+[Mon Aug 31 17:00:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_log in C:\\wamp\\www\\PRIME\\authenticate.php on line 43, referer: http://localhost/PRIME/index.php?act=mismatch&err=3
+[Mon Aug 31 17:00:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_not in C:\\wamp\\www\\PRIME\\authenticate.php on line 44, referer: http://localhost/PRIME/index.php?act=mismatch&err=3
+[Mon Aug 31 17:00:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_adj in C:\\wamp\\www\\PRIME\\authenticate.php on line 46, referer: http://localhost/PRIME/index.php?act=mismatch&err=3
+[Mon Aug 31 17:00:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_wimax in C:\\wamp\\www\\PRIME\\authenticate.php on line 47, referer: http://localhost/PRIME/index.php?act=mismatch&err=3
+[Mon Aug 31 17:00:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_mcc in C:\\wamp\\www\\PRIME\\authenticate.php on line 48, referer: http://localhost/PRIME/index.php?act=mismatch&err=3
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_report in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_log in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 17, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_not in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 18, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 19, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_adj in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 20, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_wimax in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 21, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_mcc in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 22, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 17:01:16 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_report in C:\\wamp\\www\\PRIME\\authenticate.php on line 40, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 17:01:16 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_log in C:\\wamp\\www\\PRIME\\authenticate.php on line 43, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 17:01:16 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_not in C:\\wamp\\www\\PRIME\\authenticate.php on line 44, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 17:01:16 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_adj in C:\\wamp\\www\\PRIME\\authenticate.php on line 46, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 17:01:16 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_wimax in C:\\wamp\\www\\PRIME\\authenticate.php on line 47, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 17:01:16 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_mcc in C:\\wamp\\www\\PRIME\\authenticate.php on line 48, referer: http://localhost/PRIME/index.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_report in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_log in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 17, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_not in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 18, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 19, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_adj in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 20, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_wimax in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 21, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:01:36 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_mcc in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 22, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:06:04 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:04 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:06 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:06:06 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:06:07 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 17:06:08 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 17:06:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 17:06:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 17:06:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/resetPass.php
+[Mon Aug 31 17:06:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:06:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\viewstatus.php on line 6, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:06:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:09:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:09:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 17:09:22 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:09:22 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:09:22 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 17:09:24 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 17:09:24 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 17:09:24 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 17:09:25 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 17:09:25 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 17:09:25 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 17:09:25 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 20, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 17:09:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 17:09:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 17:09:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\portbind.php on line 10, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 17:09:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\portbind.php on line 22, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 17:09:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 17:09:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 17:09:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 17:09:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 17:09:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/portbind.php
+[Mon Aug 31 17:09:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 17:09:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/timeextension.php
+[Mon Aug 31 17:09:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 17:09:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 18:09:23 2015] [warn] pid file C:/wamp/bin/apache/Apache2.2.17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 31 18:09:23 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Mon Aug 31 18:09:23 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Aug 31 18:09:23 2015] [notice] Parent: Created child process 5060
+[Mon Aug 31 18:09:23 2015] [notice] Child 5060: Child process is running
+[Mon Aug 31 18:09:23 2015] [notice] Child 5060: Acquired the start mutex.
+[Mon Aug 31 18:09:23 2015] [notice] Child 5060: Starting 64 worker threads.
+[Mon Aug 31 18:09:23 2015] [notice] Child 5060: Starting thread to listen on port 80.
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:09:43 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:10:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:10:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:10:51 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:12:51 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:15:33 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:16:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:20:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:21:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:22:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:22:46 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:22:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:26:35 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/logout.php?act=login&err=1
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Aug 31 18:27:02 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:27:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 18:27:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 18:27:28 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Mon Aug 31 18:27:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:27:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:27:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:27:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:27:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:47 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:47 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:59 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:28:59 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:29:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:29:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:29:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 18:29:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60
+[Mon Aug 31 18:29:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61
+[Mon Aug 31 18:30:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 18:30:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 18:30:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:30:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:30:58 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:30:58 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:30:58 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:31:03 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:31:03 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Mon Aug 31 18:31:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 18:31:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 18:32:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 18:32:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 18:32:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 18:32:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 20, referer: http://localhost/PRIME/viewsession.php
+[Mon Aug 31 18:33:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 18:33:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 18:33:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 18:33:53 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 18:34:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 18:34:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/userMain.php
+[Mon Aug 31 18:35:25 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 18:35:25 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/userAdd.php
+[Mon Aug 31 18:36:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/resetPass.php
+[Mon Aug 31 18:36:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/resetPass.php
+[Mon Aug 31 18:41:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 18:41:02 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Aug 31 18:41:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:41:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:41:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 18:41:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\resetadslpwd.php on line 20, referer: http://localhost/PRIME/main.php
+[Mon Aug 31 19:35:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 19:35:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 19:35:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 19:35:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 19:35:39 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/resetadslpwd.php
+[Mon Aug 31 21:37:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Aug 31 21:37:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60
+[Mon Aug 31 21:37:52 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61
+[Mon Aug 31 21:37:52 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Tue Sep 01 09:04:38 2015] [warn] pid file C:/wamp/bin/apache/Apache2.2.17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 01 09:04:38 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Tue Sep 01 09:04:38 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Tue Sep 01 09:04:38 2015] [notice] Parent: Created child process 6000
+[Tue Sep 01 09:04:38 2015] [notice] Child 6000: Child process is running
+[Tue Sep 01 09:04:39 2015] [notice] Child 6000: Acquired the start mutex.
+[Tue Sep 01 09:04:39 2015] [notice] Child 6000: Starting 64 worker threads.
+[Tue Sep 01 09:04:39 2015] [notice] Child 6000: Starting thread to listen on port 80.
+[Tue Sep 01 09:04:40 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/logout.php
+[Tue Sep 01 09:04:43 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 09:04:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 09:04:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 09:04:43 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Tue Sep 01 09:04:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:04:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:04:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:04:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:04:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:05:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:05:01 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:05:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:15 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:05:28 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:05:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/timeextensionAct.php
+[Tue Sep 01 09:05:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/timeextensionAct.php
+[Tue Sep 01 09:05:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:37 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 09:05:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:05:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:05:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/timeextension.php
+[Tue Sep 01 09:06:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/timeextensionAct.php
+[Tue Sep 01 09:06:05 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/timeextensionAct.php
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Tue Sep 01 09:36:49 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 09:36:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 09:36:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 09:36:55 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 09:36:55 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 10:31:38 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/logout.php
+[Tue Sep 01 10:31:42 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 10:31:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 10:31:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Tue Sep 01 10:31:42 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Tue Sep 01 10:31:47 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 10:31:47 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 10:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 10:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 10:31:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Tue Sep 01 10:31:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Tue Sep 01 10:31:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:12 2015] [warn] pid file C:/wamp/bin/apache/Apache2.2.17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 02 17:18:12 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Wed Sep 02 17:18:12 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Wed Sep 02 17:18:12 2015] [notice] Parent: Created child process 5524
+[Wed Sep 02 17:18:12 2015] [notice] Child 5524: Child process is running
+[Wed Sep 02 17:18:12 2015] [notice] Child 5524: Acquired the start mutex.
+[Wed Sep 02 17:18:12 2015] [notice] Child 5524: Starting 64 worker threads.
+[Wed Sep 02 17:18:12 2015] [notice] Child 5524: Starting thread to listen on port 80.
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Wed Sep 02 17:18:13 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Wed Sep 02 17:18:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Wed Sep 02 17:18:19 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Wed Sep 02 17:18:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Wed Sep 02 17:18:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Wed Sep 02 17:18:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Wed Sep 02 17:18:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:40 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewsession.php on line 45, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:18:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:18:49 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:18:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:18:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:18:58 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:18:58 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:19:11 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:19:11 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:19:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:19:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:19:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/viewsession.php
+[Wed Sep 02 17:19:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:19:21 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:19:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:19:26 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Wed Sep 02 17:19:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Wed Sep 02 17:19:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/userMain.php
+[Wed Sep 02 17:19:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/resetPass.php
+[Wed Sep 02 17:19:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/resetPass.php
+[Wed Sep 02 17:19:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submitted in C:\\wamp\\www\\PRIME\\changepass.php on line 11, referer: http://localhost/PRIME/users/resetPass.php
+[Wed Sep 02 17:19:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: done in C:\\wamp\\www\\PRIME\\changepass.php on line 113, referer: http://localhost/PRIME/users/resetPass.php
+[Wed Sep 02 17:19:35 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: err in C:\\wamp\\www\\PRIME\\changepass.php on line 130, referer: http://localhost/PRIME/users/resetPass.php
+[Thu Sep 03 20:21:13 2015] [warn] pid file C:/wamp/bin/apache/Apache2.2.17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Sep 03 20:21:16 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Thu Sep 03 20:21:16 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Thu Sep 03 20:21:16 2015] [notice] Parent: Created child process 6876
+[Thu Sep 03 20:21:16 2015] [notice] Child 6876: Child process is running
+[Thu Sep 03 20:21:16 2015] [notice] Child 6876: Acquired the start mutex.
+[Thu Sep 03 20:21:16 2015] [notice] Child 6876: Starting 64 worker threads.
+[Thu Sep 03 20:21:16 2015] [notice] Child 6876: Starting thread to listen on port 80.
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Thu Sep 03 20:21:27 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Thu Sep 03 20:21:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:21:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:21:30 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Thu Sep 03 20:27:29 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/logout.php
+[Thu Sep 03 20:27:30 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:27:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:27:30 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:27:31 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Thu Sep 03 20:43:42 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Thu Sep 03 20:43:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:43:43 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Thu Sep 03 20:43:44 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Thu Sep 03 20:43:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Thu Sep 03 20:43:45 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Thu Sep 03 20:43:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/users/userMain.php
+[Thu Sep 03 20:43:48 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/users/userMain.php
+[Mon Sep 21 20:19:17 2015] [warn] pid file C:/wamp/bin/apache/Apache2.2.17/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 21 20:19:17 2015] [notice] Apache/2.2.17 (Win32) PHP/5.3.3 configured -- resuming normal operations
+[Mon Sep 21 20:19:17 2015] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Sep 21 20:19:17 2015] [notice] Parent: Created child process 7156
+[Mon Sep 21 20:19:17 2015] [notice] Child 7156: Child process is running
+[Mon Sep 21 20:19:17 2015] [notice] Child 7156: Acquired the start mutex.
+[Mon Sep 21 20:19:17 2015] [notice] Child 7156: Starting 64 worker threads.
+[Mon Sep 21 20:19:17 2015] [notice] Child 7156: Starting thread to listen on port 80.
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_ids in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 2
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_name in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 3
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_status in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 4
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_type in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 5
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_email in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 6
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 7
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_fullname in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 9
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_user in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 13
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_cid in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 14
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_pwd in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 15
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_adm_ext in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 16
+[Mon Sep 21 20:19:18 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:19:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/authenticate.php
+[Mon Sep 21 20:19:27 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/authenticate.php
+[Mon Sep 21 20:19:27 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/PRIME/css/more_base.jpg, referer: http://localhost/PRIME/css/stylesheet.css
+[Mon Sep 21 20:19:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Sep 21 20:19:32 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Sep 21 20:19:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/main.php
+[Mon Sep 21 20:19:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/main.php
+[Mon Sep 21 20:19:33 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: submit in C:\\wamp\\www\\PRIME\\viewstatus.php on line 61, referer: http://localhost/PRIME/main.php
+[Mon Sep 21 20:19:44 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:19:44 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:19:56 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:19:56 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:20:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:20:17 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:20:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:20:50 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:20:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:20:54 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:21:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: usr_region_loca in C:\\wamp\\www\\PRIME\\includes\\IncSession.php on line 8, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:21:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: pLog in C:\\wamp\\www\\PRIME\\includes\\header.php on line 60, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:21:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: err in C:\\wamp\\www\\PRIME\\timeextension.php on line 11, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:21:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined index: dat in C:\\wamp\\www\\PRIME\\timeextension.php on line 12, referer: http://localhost/PRIME/viewstatus.php
+[Mon Sep 21 20:21:14 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: msg in C:\\wamp\\www\\PRIME\\timeextension.php on line 24, referer: http://localhost/PRIME/viewstatus.php

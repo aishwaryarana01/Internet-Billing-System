@@ -1,0 +1,39 @@
+[Config]
+ImageList=images_off.bmp
+ServiceCheckInterval=1
+ServiceGlyphRunning=13
+ServiceGlyphPaused=14
+ServiceGlyphStopped=15
+TrayIconAllRunning=16
+TrayIconSomeRunning=17
+TrayIconNoneRunning=18
+ID={wampserver}
+AboutHeader=WAMP5
+AboutVersion=Version 2.1
+
+[AboutText]
+WampServer Version 2.1
+
+Created by Romain Bourdon (romain@anaska.com)
+
+Powered by Alter Way http://www.alterway.fr
+
+Sources are available at SourceForge
+
+http://www.wampserver.com
+
+[Services]
+Name: wampapache
+Name: wampmysqld
+
+[Messages]
+AllRunningHint=WAMP5 - All services running - server Offline
+SomeRunningHint=WAMP5 - %n of %t services running - server Offline
+NoneRunningHint=WAMP5 - None of %t services running - server Offline
+
+[StartupAction]
+Action: run; FileName: "WAMPROOT/bin/php/phpWAMPPHPVERSION/php-win.exe";Parameters: "refresh.php";WorkingDir: "WAMPROOT/scripts"; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+Action: service; Service: wampapache; ServiceAction: startresume; Flags: ignoreerrors
+Action: service; Service: wampmysqld; ServiceAction: startresume; Flags: ignoreerrors
